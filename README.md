@@ -34,6 +34,3 @@ It will help reduce duplicate reporting, improve communication, simplify complai
 A functional web application where students, administrators, and technicians can manage maintenance complaints efficiently through a single platform.
 
 *-Team CodeNova*
-A functional web application where students, administrators, and technicians can manage maintenance complaints efficiently through a single platform.
-
-**Future Scope:** Email notifications, AI-based complaint classification, and automated technician assignment.
